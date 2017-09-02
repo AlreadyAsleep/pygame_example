@@ -1,2 +1,2 @@
 # pygame_example
-A simple game engine written with the pygame engine in Python 3
+A simple game engine written with pygame in Python 3
